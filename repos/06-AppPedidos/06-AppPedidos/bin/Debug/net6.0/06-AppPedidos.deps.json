@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "06-AppPedidos/1.0.0": {
+        "dependencies": {
+          "06-libPedidos": "1.0.0"
+        },
+        "runtime": {
+          "06-AppPedidos.dll": {}
+        }
+      },
+      "06-libPedidos/1.0.0": {
+        "runtime": {
+          "06-libPedidos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06-AppPedidos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "06-libPedidos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
