@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programación\\Desarrollo Web\\Cursos\\Código Facilito\\Curso C#\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj": {}
+    "E:\\Programming\\Cursos_Web\\curso_csharp_codigofacilito\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj": {}
   },
   "projects": {
-    "D:\\Programación\\Desarrollo Web\\Cursos\\Código Facilito\\Curso C#\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj": {
+    "E:\\Programming\\Cursos_Web\\curso_csharp_codigofacilito\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programación\\Desarrollo Web\\Cursos\\Código Facilito\\Curso C#\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj",
+        "projectUniqueName": "E:\\Programming\\Cursos_Web\\curso_csharp_codigofacilito\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj",
         "projectName": "06-libPedidos",
-        "projectPath": "D:\\Programación\\Desarrollo Web\\Cursos\\Código Facilito\\Curso C#\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj",
-        "packagesPath": "C:\\Users\\matyd\\.nuget\\packages\\",
-        "outputPath": "D:\\Programación\\Desarrollo Web\\Cursos\\Código Facilito\\Curso C#\\repos\\06-AppPedidos\\06-libPedidos\\obj\\",
+        "projectPath": "E:\\Programming\\Cursos_Web\\curso_csharp_codigofacilito\\repos\\06-AppPedidos\\06-libPedidos\\06-libPedidos.csproj",
+        "packagesPath": "C:\\Users\\trechi\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Cursos_Web\\curso_csharp_codigofacilito\\repos\\06-AppPedidos\\06-libPedidos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
