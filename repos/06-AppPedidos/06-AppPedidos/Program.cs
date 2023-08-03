@@ -18,7 +18,7 @@ clsProductos Producto2 = new clsProductos();
 Producto2 = Producto;
 
 recProductos rProducto = new recProductos(1, "Gaseosa naranja 500mL", "0001");
-recProductos rProducto2 = rProducto;
+recProductos rProducto2 = rProducto with { BarCode = "0002" };
 
 Console.WriteLine("Producto: " + Producto);
 Console.WriteLine("Producto2: " + Producto2);

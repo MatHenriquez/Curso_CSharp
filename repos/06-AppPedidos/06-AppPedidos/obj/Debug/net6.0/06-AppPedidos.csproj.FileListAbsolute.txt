@@ -16,3 +16,21 @@ D:\Programación\Desarrollo Web\Cursos\Código Facilito\Curso C#\repos\06-AppPed
 D:\Programación\Desarrollo Web\Cursos\Código Facilito\Curso C#\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.pdb
 D:\Programación\Desarrollo Web\Cursos\Código Facilito\Curso C#\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.genruntimeconfig.cache
 D:\Programación\Desarrollo Web\Cursos\Código Facilito\Curso C#\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\ref\06-AppPedidos.dll
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.csproj.AssemblyReference.cache
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.AssemblyInfoInputs.cache
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.AssemblyInfo.cs
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.csproj.CoreCompileInputs.cache
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.dll
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\refint\06-AppPedidos.dll
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.pdb
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-AppPedidos.exe
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-AppPedidos.deps.json
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-AppPedidos.runtimeconfig.json
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-AppPedidos.dll
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-AppPedidos.pdb
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-libPedidos.dll
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\bin\Debug\net6.0\06-libPedidos.pdb
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.csproj.CopyComplete
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\06-AppPedidos.genruntimeconfig.cache
+E:\Programming\Cursos_Web\curso_csharp_codigofacilito\repos\06-AppPedidos\06-AppPedidos\obj\Debug\net6.0\ref\06-AppPedidos.dll
